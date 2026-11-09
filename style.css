@@ -3,3 +3,8 @@ p{
     color: lightseagreen;
     text-transform: uppercase;
 }
+h1{
+    text-align: right;
+    color: lightseagreen;
+    text-decoration: solid black dotted;
+}
