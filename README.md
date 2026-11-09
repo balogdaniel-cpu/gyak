@@ -1,3 +1,3 @@
-#Ez szintén gyakorlás céljából került létrehozásra.
-  **félkövér**
+#Ez szintén gyakorlás céljából került létrehozásra.  
+  **félkövér**  
   *dőlt*
